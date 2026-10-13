@@ -23,10 +23,14 @@ def filter_records(records, category):
     # TODO: لفّ واشرط — أعد قائمة جديدة بالمطابقين
     return [r for r in records if r.get('category') == category]
 
-def summarize(records):
-    """Return count, total, average, biggest, smallest of amount_egp."""
+def summarize(records, key='amount_egp'):
+#def summarize(records):
+    """Return count, total, average, biggest, smallest of the specified key."""
+    #"""Return count, total, average, biggest, smallest of amount_egp."""
     # TODO: نمط الملخص — لو القائمة فاضية رجّع أصفار
-    amounts = [float(r['amount_egp']) for r in records if 'amount_egp' in r]
+    amounts = [float(r[key]) for r in records if key in r and r[key] is not None]
+    #amounts = [float(r['amount_egp']) for r in records if 'amount_egp' in r]
+
     if not amounts:
         return {
             'count': 0,
@@ -80,3 +84,26 @@ def load_records(path):
     except FileNotFoundError:
         return []
     return records
+
+def delete_record(records, index):
+    """Delete the record at index and return it."""
+    if index < 0 or index >= len(records):
+        return None
+    return records.pop(index)
+
+
+def update_record(records, index, field, value):
+    """Change one field of the record at index."""
+    # نتأكد أن الفهرس صحيح وموجود داخل القائمة
+    if index < 0 or index >= len(records):
+        return None
+
+    # نأخذ السجل المطلوب
+    record = records[index]
+
+    # نتحقق إذا كان الحقل موجوداً بالفعل في السجل
+    if field in record:
+        record[field] = value
+        return record
+
+    return None
