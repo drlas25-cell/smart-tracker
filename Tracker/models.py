@@ -145,3 +145,17 @@ Original file is located at
 #                     self.add(record_obj)
 #         except FileNotFoundError:
 #             pass
+# 
+# 
+# 
+# 
+#     # tracker/models.py — الطريقة دي تنزل جوّا كلاس المتتبّع
+#     def top_n(self, field, n):
+#         """Return the n records with the biggest value of field."""
+#         # TODO: لفّ على السجلات وتتبّع أكبر قيمة — ورتّبهم تنازليًا
+#         pass
+# 
+# 
+# 
+# 
+#
