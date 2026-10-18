@@ -1,0 +1,11 @@
+issue_id,title,priority,status,hours_spent,days_open,assigned_to,platform
+101,Database connection timeout,High,Open,4.5,3,Radwa Ahmed,Web App
+102,Login page button unresponsive,Medium,In Progress,2.0,1,Sarah Ahmed,Mobile iOS
+103,Memory leak on image upload,High,Open,0.0,5,Mohamed Ali,Backend API
+104,Typo in homepage footer,Low,Closed,0.5,0,Youssef Amr,Web App
+105,Payment gateway 500 error,Critical,In Progress,8.5,2,Mohamed Ali,Backend API
+106,Dark mode UI glitch on Android,Low,Open,1.2,4,Mona Hassan,Mobile Android
+107,Export to PDF generating empty files,Medium,Open,0.0,3,Omnia Ahmed,Web App
+108,API rate limit configuration,Medium,Closed,3.0,1,Rahma Ali,Backend API
+109,Notification settings toggle crash,High,In Progress,5.0,2,Mona Hassan,Mobile Android
+110,Broken links in help documentation,Low,Closed,1.5,0,Youssef Amr,Web App
