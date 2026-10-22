@@ -94,6 +94,12 @@ print(f"Raw dataset shape: {df_raw.shape}")
 df_clean = clean_dataset(df_raw)
 print(f"Cleaned dataset shape: {df_clean.shape}")
 
+
+
+cleaned_file_path = "data/cleaned_sample_records_250.csv"
+df_clean.to_csv(cleaned_file_path, index=False)
+print(f"تم حفظ الملف بنجاح في المسار: {cleaned_file_path}")
+
 # حساب متوسط الساعات المستغرقة (hours_spent) لكل مستوى أولوية (priority)
 summary_priority = summary_by_category(df_clean, "priority", "hours_spent")
 display(summary_priority)
