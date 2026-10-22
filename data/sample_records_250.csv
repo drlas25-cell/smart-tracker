@@ -1,0 +1,253 @@
+issue_id,title,priority,status,hours_spent,days_open,assigned_to,platform
+101,Notification API returning 404 status,Low,Open,4.6,24,Ahmed Mansour,Mobile Android
+102,Navbar UI alignment glitch on Firefox,High,Closed,28.2,7,Radwa Ahmed,Desktop App
+103,Missing translation for checkout button in German,Medium,Closed,31.7,6,Mona Hassan,Web App
+104,Slow load time on dashboard page,Medium,Closed,7.3,0,Radwa Ahmed,Web App
+105,Notification API returning 500 status,Critical,In Progress,10.1,21,Nour El-Din,Mobile iOS
+106,Missing translation for welcome message in Spanish,Medium,Open,24.5,4,Sarah Ahmed,Mobile Android
+107,Background worker crash during file upload,Low,Open,21.5,27,Ahmed Mansour,Mobile Android
+108,Search API returning 502 status,High,In Progress,20.3,2,Ahmed Mansour,Backend API
+109,API gateway crash during checkout,High,In Progress,17.9,17,,Mobile iOS
+110,Dropdown UI alignment glitch on Chrome,Low,Open,17.8,26,Omnia Ahmed,Mobile iOS
+111,Submit button UI alignment glitch on Firefox,Critical,In Progress,3.4,4,Mona Hassan,Backend API
+112,Slow load time on user profile page,Low,Closed,14.6,6,Youssef Amr,Mobile iOS
+113,Missing translation for welcome message in Spanish,High,In Progress,24.9,7,Fatma Omar,Desktop App
+114,Missing translation for error message in Spanish,Medium,Open,23.5,6,Omnia Ahmed,Backend API
+115,Missing translation for welcome message in German,Low,Closed,1.3,8,Fatma Omar,Desktop App
+116,Broken navigation links in home page,Low,In Progress,15.5,26,Rahma Ali,Mobile Android
+117,Slow load time on product listing page,Medium,Open,21.8,4,Radwa Ahmed,Web App
+118,Missing translation for error message in German,Low,Open,12.6,21,Kareem Adel,Web App
+119,Slow load time on user profile page,High,Closed,,5,Mona Hassan,Mobile iOS
+120,Database slow query performance error,Low,Open,5.9,20,Youssef Amr,Mobile Android
+121,Slow load time on dashboard page,High,Open,18.8,2,Sarah Ahmed,Backend API
+122,Submit button UI alignment glitch on Chrome,Low,Open,9.3,12,Fatma Omar,Web App
+123,Navbar UI alignment glitch on Safari,Low,Open,16.9,22,Mona Hassan,Mobile Android
+124,Slow load time on user profile page,Medium,Open,8.6,6,Kareem Adel,Desktop App
+125,API gateway crash during data export,High,Open,23.6,3,Youssef Amr,Mobile Android
+126,Dropdown UI alignment glitch on Android,Low,Closed,32.7,0,Mona Hassan,Backend API
+127,Navbar UI alignment glitch on Android,High,Closed,17.7,5,Mohamed Ali,Mobile iOS
+128,Slow load time on reports page,Medium,Open,20.9,18,Nour El-Din,Mobile Android
+129,Broken privacy policy links in dashboard,Low,In Progress,0.6,23,,Backend API
+130,Slow load time on user profile page,Medium,In Progress,10.5,5,Ahmed Mansour,Backend API
+131,Sidebar UI alignment glitch on Safari,Medium,Closed,22.3,6,Fatma Omar,Web App
+132,Missing translation for checkout button in Arabic,Low,In Progress,2.8,7,Sarah Ahmed,Web App
+133,User auth API returning 500 status,Critical,In Progress,22,12,Rahma Ali,Mobile iOS
+134,Database connection timeout error,Low,Open,11.6,29,Omnia Ahmed,Desktop App
+135,Broken privacy policy links in home page,Low,Open,7.3,14,Youssef Amr,Web App
+136,Slow load time on user profile page,High,Closed,6,5,Ahmed Mansour,Mobile iOS
+137,Dropdown UI alignment glitch on iOS,High,Closed,17,4,Fatma Omar,Mobile Android
+138,Search API returning 403 status,High,Open,19.1,16,Fatma Omar,Backend API
+139,API gateway crash during startup,Low,In Progress,,28,Omnia Ahmed,Backend API
+140,Broken social media links in settings page,High,Closed,13.7,9,Mona Hassan,Mobile Android
+141,Slow load time on reports page,Low,Closed,2.2,8,Youssef Amr,Web App
+142,Database connection timeout error,Medium,In Progress,9.3,16,Mona Hassan,Desktop App
+143,Search API returning 502 status,Low,In Progress,13.6,21,Mohamed Ali,Mobile Android
+144,Application crash during data export,Critical,Closed,3.7,3,Kareem Adel,Mobile iOS
+145,Broken privacy policy links in settings page,Medium,Closed,39.3,1,Rahma Ali,Desktop App
+146,Payment API returning 404 status,Low,Closed,31.9,7,Fatma Omar,Desktop App
+147,Background worker crash during startup,Low,In Progress,3,10,Youssef Amr,Mobile Android
+148,Missing translation for error message in Spanish,Low,Closed,0.9,10,Youssef Amr,Web App
+149,Broken help documentation links in settings page,High,In Progress,0.9,8,Sarah Ahmed,
+150,Slow load time on dashboard page,Low,Closed,23.5,3,Nour El-Din,Mobile iOS
+151,Database deadlock error,Low,In Progress,22.8,11,Radwa Ahmed,Web App
+152,API gateway crash during checkout,Medium,Open,1.1,19,Fatma Omar,Desktop App
+153,Dropdown UI alignment glitch on Chrome,Low,Closed,21.4,10,Omnia Ahmed,Backend API
+154,Database slow query performance error,Medium,In Progress,23.8,16,Sarah Ahmed,Desktop App
+155,Sidebar UI alignment glitch on Firefox,Critical,In Progress,5.2,28,Fatma Omar,Desktop App
+156,Payment API returning 403 status,Low,Closed,23.2,2,Kareem Adel,Backend API
+157,Broken navigation links in dashboard,Medium,In Progress,8.4,2,Youssef Amr,Backend API
+158,Missing translation for error message in German,Low,Closed,25.3,6,Ahmed Mansour,Mobile Android
+159,Missing translation for welcome message in Spanish,Low,In Progress,0.1,14,Mohamed Ali,Web App
+160,Database migration failure error,Low,In Progress,3.4,19,Ahmed Mansour,Mobile Android
+161,Payment page crash during file upload,Low,Closed,29.2,7,Omnia Ahmed,Web App
+162,Application crash during startup,Low,In Progress,20.2,24,Nour El-Din,Web App
+163,Navbar UI alignment glitch on Chrome,Medium,In Progress,11.8,4,Rahma Ali,Backend API
+164,Missing translation for checkout button in Spanish,Low,Closed,13.3,2,Fatma Omar,Mobile iOS
+165,Missing translation for checkout button in Spanish,Low,Closed,34,3,Nour El-Din,Desktop App
+166,Payment API returning 403 status,High,Open,20.9,15,Mohamed Ali,Desktop App
+167,Dropdown UI alignment glitch on Chrome,Medium,Closed,23.1,0,Fatma Omar,Mobile iOS
+168,Broken social media links in home page,Medium,Closed,21.3,4,Kareem Adel,Mobile iOS
+169,Payment page crash during startup,Medium,Closed,22.1,7,Mona Hassan,Mobile iOS
+170,Background worker crash during data export,Low,Open,14.7,4,Fatma Omar,Desktop App
+171,Broken social media links in settings page,Low,In Progress,13.5,25,Kareem Adel,Mobile iOS
+172,Slow load time on dashboard page,High,Open,20,22,Sarah Ahmed,Desktop App
+173,Broken help documentation links in dashboard,High,Closed,40,7,Sarah Ahmed,Mobile iOS
+174,Payment API returning 404 status,Critical,In Progress,15,10,Rahma Ali,Mobile iOS
+175,Sidebar UI alignment glitch on iOS,Medium,In Progress,11.5,25,Radwa Ahmed,Backend API
+176,Broken social media links in home page,Low,Closed,15.9,5,Mohamed Ali,Mobile Android
+177,Application crash during data export,Low,Closed,12.1,4,Fatma Omar,Desktop App
+178,Dropdown UI alignment glitch on iOS,Medium,In Progress,19.8,13,Omnia Ahmed,Web App
+179,Submit button UI alignment glitch on iOS,Low,Open,10.6,26,Youssef Amr,Backend API
+180,Broken navigation links in settings page,High,Closed,33.7,7,Mohamed Ali,Web App
+181,API gateway crash during data export,High,Closed,19.1,7,Mohamed Ali,Mobile Android
+182,Payment page crash during file upload,High,Open,9,5,Radwa Ahmed,Desktop App
+183,Missing translation for error message in Spanish,High,In Progress,20.6,15,Youssef Amr,Desktop App
+184,Database migration failure error,Low,In Progress,16.4,4,Sarah Ahmed,Mobile Android
+185,Slow load time on dashboard page,High,In Progress,12.8,6,Ahmed Mansour,Backend API
+186,Missing translation for checkout button in Arabic,Medium,In Progress,4.4,11,Omnia Ahmed,Mobile Android
+187,Database migration failure error,High,Open,12.3,30,Kareem Adel,Backend API
+188,User auth API returning 502 status,Low,Closed,8.5,10,Nour El-Din,Mobile iOS
+189,Missing translation for error message in Arabic,Low,Closed,35.6,6,Mona Hassan,Mobile Android
+190,Missing translation for error message in Spanish,High,In Progress,18.9,30,Omnia Ahmed,Web App
+191,Dropdown UI alignment glitch on Firefox,Medium,Open,25,12,Radwa Ahmed,Desktop App
+192,Slow load time on product listing page,Low,Closed,39,5,Ahmed Mansour,Desktop App
+193,User auth API returning 403 status,Critical,In Progress,15.7,15,Radwa Ahmed,Desktop App
+194,Broken help documentation links in dashboard,High,In Progress,12,27,Mohamed Ali,Mobile Android
+195,Background worker crash during data export,High,In Progress,4.3,8,Mona Hassan,Mobile iOS
+196,Slow load time on product listing page,Critical,Closed,31.6,5,Omnia Ahmed,Mobile Android
+197,Sidebar UI alignment glitch on Firefox,Low,Open,10,25,Sarah Ahmed,Mobile iOS
+198,Application crash during file upload,Medium,Open,19.3,27,Mona Hassan,Backend API
+199,Slow load time on user profile page,Low,Open,9.2,5,Rahma Ali,Desktop App
+200,Dropdown UI alignment glitch on Chrome,High,Closed,39.8,8,Sarah Ahmed,Mobile iOS
+201,Database connection timeout error,Low,Closed,27.6,1,Omnia Ahmed,Mobile Android
+202,User auth API returning 502 status,High,Closed,5.2,5,Radwa Ahmed,Backend API
+203,Slow load time on product listing page,Low,Open,15.5,8,Ahmed Mansour,Mobile iOS
+204,Database slow query performance error,High,Closed,37,7,Sarah Ahmed,Backend API
+205,Dropdown UI alignment glitch on Chrome,Low,Open,19.6,18,Omnia Ahmed,Web App
+206,Broken privacy policy links in home page,High,Closed,23.2,1,Fatma Omar,Mobile Android
+207,Slow load time on user profile page,Low,In Progress,8.9,18,Nour El-Din,Web App
+208,Broken privacy policy links in dashboard,Low,Open,23.4,22,Mohamed Ali,Web App
+209,Dropdown UI alignment glitch on Android,Critical,Open,4.3,17,Mohamed Ali,Mobile iOS
+210,Search API returning 404 status,Medium,In Progress,22.4,10,Kareem Adel,Web App
+211,Payment API returning 403 status,Medium,Open,7.6,15,Mona Hassan,Backend API
+212,API gateway crash during data export,Low,In Progress,22.7,3,Radwa Ahmed,Backend API
+213,Broken privacy policy links in home page,Low,Open,18.5,10,Fatma Omar,Web App
+214,Missing translation for error message in Spanish,Low,Open,8.3,12,Fatma Omar,Desktop App
+215,Broken privacy policy links in home page,Medium,In Progress,7,20,Youssef Amr,Web App
+216,Slow load time on user profile page,Medium,Open,2.2,2,Mohamed Ali,Web App
+217,Missing translation for welcome message in German,High,Open,10.9,12,Youssef Amr,Backend API
+218,Sidebar UI alignment glitch on Android,High,Open,22.8,16,Omnia Ahmed,Desktop App
+219,Database deadlock error,Low,In Progress,18.8,8,Youssef Amr,Mobile iOS
+220,Database connection timeout error,Low,In Progress,1.2,27,Fatma Omar,Desktop App
+221,Database migration failure error,Low,Open,12.1,2,Ahmed Mansour,Backend API
+222,Broken privacy policy links in settings page,Medium,Open,19,18,Nour El-Din,Web App
+223,Broken help documentation links in settings page,Critical,In Progress,10.4,26,Kareem Adel,Backend API
+224,Missing translation for welcome message in Arabic,Low,In Progress,11.5,18,Fatma Omar,Desktop App
+225,Broken social media links in settings page,Low,Open,13.2,27,Mohamed Ali,Web App
+226,Background worker crash during startup,Low,In Progress,7.8,30,Fatma Omar,Backend API
+227,Database slow query performance error,Critical,Closed,31.2,0,Rahma Ali,Backend API
+228,Database connection timeout error,Low,Open,13,18,Youssef Amr,Web App
+229,Submit button UI alignment glitch on Safari,Low,Closed,16.9,7,Rahma Ali,Web App
+230,Footer UI alignment glitch on Chrome,Critical,In Progress,5.7,28,Radwa Ahmed,Mobile Android
+231,Database slow query performance error,Critical,In Progress,20.2,12,Radwa Ahmed,Mobile Android
+232,Database connection timeout error,High,In Progress,19.8,29,Kareem Adel,Desktop App
+233,Background worker crash during startup,Critical,Open,17.2,25,Youssef Amr,Mobile iOS
+234,Application crash during data export,Low,Closed,39.2,9,Nour El-Din,Backend API
+235,Application crash during checkout,Medium,In Progress,18.7,7,Sarah Ahmed,Backend API
+236,Slow load time on user profile page,High,In Progress,20.1,18,Youssef Amr,Web App
+237,Dropdown UI alignment glitch on Android,Low,Open,12.4,4,Rahma Ali,Mobile Android
+238,Missing translation for error message in Spanish,Low,Closed,19.5,6,Ahmed Mansour,Mobile Android
+239,Database connection timeout error,Medium,Closed,5.8,7,Radwa Ahmed,Desktop App
+240,Database migration failure error,Low,In Progress,7.4,23,Rahma Ali,Desktop App
+241,Slow load time on dashboard page,Low,Open,4.8,7,Ahmed Mansour,Web App
+242,Database migration failure error,High,Open,21.1,29,Mona Hassan,Mobile Android
+243,Slow load time on reports page,Low,Closed,4.6,8,Mohamed Ali,Mobile iOS
+244,Database migration failure error,High,In Progress,17,1,Mona Hassan,Backend API
+245,Missing translation for error message in Arabic,Critical,Closed,20,0,Omnia Ahmed,Mobile Android
+246,Payment API returning 500 status,Low,Open,3.3,1,Youssef Amr,Mobile Android
+247,Dropdown UI alignment glitch on Firefox,Low,In Progress,19.6,4,Nour El-Din,Desktop App
+248,Broken help documentation links in dashboard,High,Closed,32.7,3,Sarah Ahmed,Mobile iOS
+249,Missing translation for error message in Arabic,Low,In Progress,6.1,19,Radwa Ahmed,Mobile Android
+250,Slow load time on reports page,Low,Open,10.3,22,Mona Hassan,Mobile Android
+251,Missing translation for checkout button in Arabic,Critical,In Progress,17.8,17,Fatma Omar,Desktop App
+252,Missing translation for checkout button in Spanish,Medium,In Progress,3.7,22,Omnia Ahmed,Mobile Android
+253,Sidebar UI alignment glitch on Firefox,Medium,Closed,11.9,3,Ahmed Mansour,Desktop App
+254,Database connection timeout error,Low,Closed,31,6,Rahma Ali,Mobile iOS
+255,Broken help documentation links in dashboard,Low,Closed,33.2,9,Ahmed Mansour,Web App
+256,Broken privacy policy links in dashboard,Medium,Open,14.4,3,Rahma Ali,Web App
+257,Missing translation for error message in Arabic,High,Closed,38,4,Nour El-Din,Desktop App
+258,Database migration failure error,Low,Open,9.5,8,Rahma Ali,Mobile iOS
+259,Database migration failure error,Medium,Closed,30.8,5,Mona Hassan,Mobile iOS
+260,Payment API returning 404 status,Low,Open,6.4,21,Radwa Ahmed,Mobile Android
+261,Slow load time on user profile page,Medium,Open,12.3,19,Radwa Ahmed,Mobile iOS
+262,Broken social media links in settings page,Critical,Open,8.3,17,Mohamed Ali,Mobile Android
+263,Database connection timeout error,Low,Closed,19.5,6,Fatma Omar,Mobile iOS
+264,Broken privacy policy links in home page,Medium,Closed,11.6,7,Omnia Ahmed,Backend API
+265,Database migration failure error,Critical,In Progress,14.6,22,Radwa Ahmed,Mobile iOS
+266,Broken privacy policy links in settings page,Low,In Progress,9.4,16,Mohamed Ali,Mobile iOS
+267,Payment API returning 404 status,Low,Closed,21.5,4,Kareem Adel,Mobile Android
+268,Broken privacy policy links in settings page,Low,In Progress,24.6,23,Radwa Ahmed,Web App
+269,Payment page crash during startup,Medium,In Progress,18.5,6,Mona Hassan,Desktop App
+270,Application crash during file upload,High,Open,23.9,1,Mona Hassan,Desktop App
+271,Application crash during data export,Medium,In Progress,17.3,10,Kareem Adel,Desktop App
+272,Background worker crash during checkout,Low,Open,13.6,10,Mohamed Ali,Backend API
+273,Broken social media links in settings page,Low,Open,4.6,28,Radwa Ahmed,Desktop App
+274,Database slow query performance error,Medium,Closed,20.8,5,Nour El-Din,Web App
+275,Broken social media links in settings page,Low,Closed,18.5,5,Mona Hassan,Backend API
+276,User auth API returning 404 status,Low,In Progress,0,27,Mohamed Ali,Web App
+277,Payment API returning 404 status,High,Closed,7,10,Fatma Omar,Mobile iOS
+278,Background worker crash during startup,High,Closed,35.7,2,Fatma Omar,Backend API
+279,Missing translation for welcome message in Spanish,Critical,Closed,12.6,8,Omnia Ahmed,Web App
+280,Slow load time on dashboard page,Low,Open,14.2,23,Radwa Ahmed,Desktop App
+281,Missing translation for welcome message in German,High,Open,15.5,7,Mohamed Ali,Backend API
+282,Broken navigation links in settings page,Critical,Open,8.1,1,Nour El-Din,Web App
+283,Slow load time on user profile page,Low,Open,4.9,16,Omnia Ahmed,Backend API
+284,Database deadlock error,Low,Closed,22.1,1,Omnia Ahmed,Backend API
+285,Slow load time on product listing page,Medium,In Progress,3.3,7,Mona Hassan,Mobile iOS
+286,Database deadlock error,Low,Open,7.1,21,Kareem Adel,Web App
+287,Missing translation for welcome message in German,Medium,Open,10.8,3,Fatma Omar,Backend API
+288,Notification API returning 404 status,Low,In Progress,23.9,21,Fatma Omar,Web App
+289,Missing translation for error message in German,High,In Progress,5.1,27,Mona Hassan,Mobile Android
+290,Background worker crash during data export,Low,In Progress,19,9,Youssef Amr,Desktop App
+291,Missing translation for checkout button in Arabic,Low,In Progress,3,4,Mona Hassan,Desktop App
+292,User auth API returning 403 status,High,Closed,2.3,10,Nour El-Din,Web App
+293,Database slow query performance error,High,Open,5.9,27,Kareem Adel,Backend API
+294,Database connection timeout error,Medium,Open,22.5,27,Ahmed Mansour,Mobile iOS
+295,Search API returning 500 status,Low,In Progress,20,10,Youssef Amr,Web App
+296,Search API returning 403 status,High,Open,14.7,23,Sarah Ahmed,Desktop App
+297,Slow load time on product listing page,Critical,In Progress,9.3,20,Mohamed Ali,Backend API
+298,Missing translation for checkout button in Spanish,Medium,In Progress,12.8,21,Rahma Ali,Mobile iOS
+299,Broken privacy policy links in dashboard,Low,Open,9,4,Nour El-Din,Mobile iOS
+300,Search API returning 403 status,High,In Progress,21.3,24,Rahma Ali,Desktop App
+301,User auth API returning 404 status,Low,In Progress,19.5,17,Sarah Ahmed,Mobile Android
+302,Slow load time on product listing page,High,Open,16,12,Fatma Omar,Mobile iOS
+303,API gateway crash during file upload,Medium,Closed,38.9,0,Kareem Adel,Web App
+304,Slow load time on user profile page,Medium,In Progress,19,4,Youssef Amr,Mobile Android
+305,Database migration failure error,Medium,In Progress,18,7,Sarah Ahmed,Mobile Android
+306,Database migration failure error,High,Closed,39.1,9,Nour El-Din,Mobile iOS
+307,Broken privacy policy links in home page,Critical,Closed,15.6,6,Youssef Amr,Mobile Android
+308,Slow load time on reports page,Medium,In Progress,20,25,Sarah Ahmed,Backend API
+309,Broken social media links in settings page,Low,Closed,25.6,7,Kareem Adel,Mobile iOS
+310,Navbar UI alignment glitch on Android,Low,In Progress,20.6,23,Mona Hassan,Mobile iOS
+311,Slow load time on product listing page,Low,Open,14.9,7,Ahmed Mansour,Mobile iOS
+312,Notification API returning 502 status,Medium,Closed,34.1,6,Radwa Ahmed,Mobile Android
+313,Missing translation for checkout button in Spanish,Low,Open,16.8,7,Omnia Ahmed,Desktop App
+314,Application crash during data export,Low,In Progress,16.7,29,Nour El-Din,Mobile iOS
+315,Broken navigation links in dashboard,Low,Closed,27.8,4,Youssef Amr,Desktop App
+316,Submit button UI alignment glitch on Chrome,Low,Open,14.3,17,Rahma Ali,Web App
+317,API gateway crash during startup,Medium,Closed,35.5,8,Mohamed Ali,Mobile Android
+318,Submit button UI alignment glitch on iOS,Low,In Progress,6.5,14,Mohamed Ali,Web App
+319,Payment page crash during file upload,High,Open,14.3,12,Nour El-Din,Desktop App
+320,Payment API returning 502 status,Medium,In Progress,11.1,22,Kareem Adel,Mobile iOS
+321,Slow load time on dashboard page,Medium,In Progress,21.1,9,Fatma Omar,Backend API
+322,Slow load time on product listing page,Low,Closed,15.5,5,Rahma Ali,Mobile Android
+323,Sidebar UI alignment glitch on iOS,High,Open,19.8,28,Nour El-Din,Desktop App
+324,Sidebar UI alignment glitch on Firefox,Critical,Closed,17.6,7,Sarah Ahmed,Backend API
+325,Broken navigation links in home page,High,Closed,26.2,8,Fatma Omar,Desktop App
+326,Broken social media links in settings page,Low,Closed,39.9,3,Omnia Ahmed,Web App
+327,Broken navigation links in dashboard,Low,Open,12,12,Mohamed Ali,Mobile Android
+328,Database connection timeout error,High,In Progress,18.7,30,Fatma Omar,Mobile Android
+329,Broken navigation links in settings page,Low,Closed,33.8,3,Radwa Ahmed,Mobile Android
+330,Slow load time on user profile page,Low,Open,7.7,8,Ahmed Mansour,Desktop App
+331,Search API returning 404 status,High,Closed,1.7,5,Nour El-Din,Mobile iOS
+332,Notification API returning 403 status,Low,In Progress,5,7,Radwa Ahmed,Web App
+333,Missing translation for welcome message in German,Low,Open,1.2,19,Youssef Amr,Mobile iOS
+334,Submit button UI alignment glitch on Safari,Medium,In Progress,22.8,29,Kareem Adel,Mobile iOS
+335,Broken social media links in dashboard,Critical,Open,6.2,24,Mohamed Ali,Mobile iOS
+336,Missing translation for checkout button in Spanish,High,Open,23,7,Rahma Ali,Mobile Android
+337,Database slow query performance error,Medium,Open,3.2,14,Ahmed Mansour,Web App
+338,Missing translation for checkout button in Arabic,Medium,Open,14.2,19,Youssef Amr,Web App
+339,Application crash during file upload,Low,Open,11.4,18,Youssef Amr,Desktop App
+340,Database connection timeout error,Critical,Closed,18.8,0,Mohamed Ali,Desktop App
+341,Slow load time on dashboard page,Low,Open,4.5,22,Radwa Ahmed,Desktop App
+342,Payment API returning 403 status,Critical,Closed,8.2,1,Fatma Omar,Web App
+343,Background worker crash during startup,Medium,Open,16,16,Mohamed Ali,Web App
+344,Missing translation for checkout button in Arabic,Medium,In Progress,17.6,17,Radwa Ahmed,Web App
+345,Broken social media links in dashboard,Medium,Open,22.8,1,Fatma Omar,Backend API
+346,Submit button UI alignment glitch on Safari,Low,Closed,15.4,10,Omnia Ahmed,Web App
+347,Application crash during checkout,Medium,Open,8.3,13,Mohamed Ali,Desktop App
+348,Slow load time on reports page,Low,Closed,26.2,0,Kareem Adel,Web App
+349,Broken help documentation links in dashboard,Medium,In Progress,8.5,16,Rahma Ali,Backend API
+350,Missing translation for error message in Spanish,High,Open,15.6,23,Kareem Adel,Mobile iOS
+300,Search API returning 403 status,High,In Progress,21.3,24,Rahma Ali,Desktop App
+301,User auth API returning 404 status,Low,In Progress,19.5,17,Sarah Ahmed,Mobile Android
